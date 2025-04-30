@@ -1,0 +1,76 @@
+.Page1 {text-align: center;font-size: 30px;color: #a1bfdb;background-image: url("Imagen\ 2.jpeg");mask-image: linear-gradient(black 80%, transparent); width: 1275px; height: 300px;}
+h3{color: #ffffff;}
+.normal{color: #440429;font-size: 20px;text-align: center;width: 1270px;}
+body{ background-color: rgb(202, 232, 254);}
+ul{text-align: left;font-size: 20px;color: #900867;}
+.P1{text-align:center;background-image: url("Imagen\ 4.jpg");mask-image:linear-gradient(transparent,black 70%,transparent) ;height: 130px;padding-top: 150px;color:#ffffff;font-size: xx-large;}
+.P2{font-size: x-large;color: #093f71}
+.container {text-align: center;color: #eb9ac9;}
+.Aladerecha{text-align: left;background: #a1bfdb;border-radius: 5%;} 
+li{font-size: larger;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.S1{font-size: x-large;color: #093f71;background:linear-gradient(135deg,#ffffff,#093f71);}
+.Tipos{text-align: justify;font-size: large;}
+button {
+    border: 0;
+    background-image: linear-gradient(
+        150deg,#0f298f,rgb(23, 81, 119),#237e9d );
+        border-radius: 8px;
+        color:#ffffff;
+        display: flex;
+        font-size: 18px;
+        padding: 4px;
+        cursor: pointer;
+        transition: 1s;
+        font-family: 'Times New Roman', Times, serif;
+    
+}
+button span{
+    background-color: #96bbd6;
+    padding: 16px 24px;
+    border-radius: 6px;
+    transition: 1s;
+}
+button:hover span {
+    background: none;
+}
+button:active{
+    transform: scale(0.9);
+}
+.Subtítulo1Pag2 {
+    font-size: xx-large; color: rgb(22, 67, 107);
+}
+div{
+    background-color: #ffffff;
+    width: 230px;
+    text-align: center;
+    border-radius: 5%;
+}
+div img { 
+    width: 180px;
+    margin-top: 10px;
+    border-radius: 5%;
+}
+
+section{
+    display: flex;
+    justify-content: center ;
+    column-gap: 50px;
+}
+
+.Galeria {
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+}
+.gal{
+    text-align: center;
+    color:#093f71;
+    font-size: xx-large;
+}
+.videos{
+    justify-content: center;
+}
+.Page2 {text-align: center;font-size: 30px;color: #a1bfdb;background-image: url("imagen\ 15.jpg");mask-image: linear-gradient(black 80%, transparent); width: 1275px; height: 300px;}
+
+.Page3 {text-align: center;font-size: 30px;color: #a1bfdb;background-image: url("imagen\ 16.jpg");mask-image: linear-gradient(black 80%, transparent); width: 1275px; height: 300px;}
+.Page4 {text-align: center;font-size: 30px;color: #a1bfdb;background-image: url("imagen\ 17.jpg");mask-image: linear-gradient(black 80%, transparent); width: 1275px; height: 300px;}
